@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate frontend developer from Philippines<br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://my-portfolio-gey.vercel.app/<br><br>📫 How to reach me gelopagutayao@gmail.com
+A passionate frontend developer from Philippines<br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://[my-portfolio-gey.vercel.app](https://geylou-portfolio.vercel.app/)/<br><br>📫 How to reach me gelopagutayao@gmail.com
 
 
 ## 🌐 Socials:
