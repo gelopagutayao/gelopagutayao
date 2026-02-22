@@ -2,7 +2,7 @@
 <br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://[my-portfolio-gey.vercel.app](https://geylou-portfolio.vercel.app/)/<br><br>📫 How to reach me gelopagutayao@gmail.com
 
 <!-- View Counter -->
-  ![](https://komarev.com/ghpvc/?username=gelopagutayao=Profile%20Views&color=blue&style=for-the-badge)
+  ![](https://komarev.com/ghpvc/?username=Gelightful=Profile%20Views&color=blue&style=for-the-badge)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/pagutayao.gelo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gelo-pagutayao-8b54a52ab/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gelopagutayao@gmail.com) 
