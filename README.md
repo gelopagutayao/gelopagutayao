@@ -1,6 +1,10 @@
 # 💫 About Me:
 <br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://geylou-portfolio.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;BSIT+Student;Building+Cool+Projects;Always+Learning..." />
+</p>
+
 <!-- View Counter -->
 ![](https://komarev.com/ghpvc/?username=gelopagutayao&label=Profile%20Views&color=blue&style=for-the-badge)
 
@@ -23,4 +27,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gelopagutayao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  ⚡ Keep Building. Keep Improving. ⚡
+</p>
