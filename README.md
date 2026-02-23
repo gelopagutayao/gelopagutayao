@@ -2,11 +2,11 @@
 <br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://geylou-portfolio.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;BSIT+Student;Building+Cool+Projects;Always+Learning..." />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="200" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;BSIT+Student;Always+Learning+New+Tech" />
 </p>
 
 <!-- View Counter -->
@@ -31,6 +31,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=gelopagutayao&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  ⚡ Keep Building. Keep Improving. ⚡
-</p>
