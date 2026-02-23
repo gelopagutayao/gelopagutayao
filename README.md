@@ -1,18 +1,12 @@
 # 💫 About Me:
 <br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://geylou-portfolio.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=GELO+PAGUTAYAO;CYBERPUNK+DEVELOPER;SYSTEM+ONLINE...;ACCESS+GRANTED." />
-</h1>
-
 <p align="center">
-  <img src="https://media.tenor.com/1X8G4GmGxLAAAAAC/matrix-code.gif" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=SYSTEM+INITIALIZING...;ACCESS+GRANTED;WELCOME+TO+THE+GRID." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=ghost&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-39FF14?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POWER-100%25-39FF14?style=for-the-badge"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Animated Hacker Line" width="800"/>
 </p>
 
 <!-- View Counter -->
