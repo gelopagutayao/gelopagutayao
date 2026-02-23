@@ -2,7 +2,7 @@
 <br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://geylou-portfolio.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pepe-pepe-the-frog.gif" width="200"/>
+  <img src="https://media.tenor.com/1X8G4GmGxLAAAAAC/matrix-code.gif" width="600"/>
 </p>
 
 <!-- View Counter -->
