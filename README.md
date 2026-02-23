@@ -1,8 +1,18 @@
 # 💫 About Me:
 <br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://geylou-portfolio.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=GELO+PAGUTAYAO;CYBERPUNK+DEVELOPER;SYSTEM+ONLINE...;ACCESS+GRANTED." />
+</h1>
+
 <p align="center">
-  <img src="https://media.tenor.com/tm8rJbY3hZ8AAAAC/hacker.gif" width="500"/>
+  <img src="https://media.tenor.com/1X8G4GmGxLAAAAAC/matrix-code.gif" width="700"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&logo=ghost&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MODE-CYBERPUNK-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWER-100%25-39FF14?style=for-the-badge"/>
 </p>
 
 <!-- View Counter -->
