@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://geylou-portfolio.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
+<br><br>🔭 I’m currently working on Medicare UI & Frontend<br><br>🌱 I’m currently learning React, Laravel<br><br>👨‍💻 All of my projects are available at https://gelop.vercel.app//<br><br>📫 How to reach me gelopagutayao@gmail.com
 
 <!-- View Counter -->
 ![](https://komarev.com/ghpvc/?username=gelopagutayao&label=Profile%20Views&color=blue&style=for-the-badge)
